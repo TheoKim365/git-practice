@@ -2,7 +2,11 @@ team: Panthers
 
 manager: Donald
 
+<<<<<<< HEAD
 coach: Shirley
+=======
+coach: Raymond
+>>>>>>> 89c45eb (Edit Panthers)
 
 members:
 - Linde
